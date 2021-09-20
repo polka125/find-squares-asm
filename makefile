@@ -1,4 +1,4 @@
-EXAMPLE = ~/Downloads/inp
+EXAMPLE = ./inp
 
 
 compile:
